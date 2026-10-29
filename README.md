@@ -26,8 +26,8 @@ Hazardous Zone/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Somya170/Hazardous-Zone-Detector.git
-cd Hazardous-Zone-Detector
+git clone https://github.com/vansh1031/hazardious.git
+cd hazardious
 ```
 
 ### 2. Install Dependencies
@@ -64,4 +64,4 @@ Clicking this URL will launch the Hazardous Zone Detector window.
 | USB Camera | `/dev/video0` |
 
 ## 👤 Author
-**Somya** — NVIDIA Jetson Orin Project
+**Vanshraj Singh Rathore** — vanshraj.rathore.05227@gmail.com — NVIDIA Jetson Orin Project
